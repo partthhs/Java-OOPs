@@ -7,3 +7,4 @@ OOPs practice codes<br>
 -student name and ID using class and methods<br>
 -Circle Area using methods<br>
 -Persons identity information using class and objects<br>
+-Integer Comparison using Integer.compare() with user inputs<br>
