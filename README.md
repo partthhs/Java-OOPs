@@ -6,6 +6,7 @@ OOPs practice codes<br>
 ##CONCEPT COVERED##<br>
 -Class and objects<br>
 -Methods<br>
+-Constructors<br>
 ------------------<br>
 #Programmes Covered<br>
 •Class and Object codes are:<br>
@@ -15,3 +16,4 @@ OOPs practice codes<br>
 -Integer Comparison using Integer.compare() with user inputs<br>
 -Bank Account details code using Class and Object<br>
 -Car brand details using Class and variables<br>
+- Area of Rectangle using Constructors<br>
