@@ -17,3 +17,4 @@ OOPs practice codes<br>
 -Bank Account details code using Class and Object<br>
 -Car brand details using Class and variables<br>
 - Area of Rectangle using Constructors<br>
+-Laptop details using constructor overloading<br>
