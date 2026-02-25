@@ -7,6 +7,7 @@ OOPs practice codes<br>
 -Class and objects<br>
 -Methods<br>
 -Constructors<br>
+-Inheritance<br>
 ------------------<br>
 #Programmes Covered<br>
 •Class and Object codes are:<br>
@@ -18,3 +19,4 @@ OOPs practice codes<br>
 -Car brand details using Class and variables<br>
 - Area of Rectangle using Constructors<br>
 -Laptop details using constructor overloading<br>
+-Inheritance example using animal class<br>
