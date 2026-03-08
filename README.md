@@ -13,6 +13,7 @@ OOPs practice codes<br>
 •Class and Object codes are:<br>
 -student name and ID using class and methods<br>
 -Circle Area using methods<br>
+-Factorial of a number using Class and object<br>
 -Persons identity information using class and objects<br>
 -Integer Comparison using Integer.compare() with user inputs<br>
 -Bank Account details code using Class and Object<br>
