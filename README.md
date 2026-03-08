@@ -22,3 +22,4 @@ OOPs practice codes<br>
 -Inheritance example using animal class<br>
 -Multilevel Inheritance code<br>
 -Method overloading code<br>
+- Hierarchical inheritance code<br>
