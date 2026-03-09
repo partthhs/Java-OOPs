@@ -26,3 +26,4 @@ OOPs practice codes<br>
 - Hierarchical inheritance code<br>
 -Multilevel inheritance code<br>
 -Addition and multiplication using Inheritance<br>
+-Calculation of area of circle using inheritance<br>
