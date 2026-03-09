@@ -1,3 +1,4 @@
+//calculation of area of circle using single inheritance//
 import java.util.Scanner;
 class Radius
 {
@@ -32,3 +33,4 @@ sc.close();
     }
     
 }
+
