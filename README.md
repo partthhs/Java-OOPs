@@ -25,3 +25,4 @@ OOPs practice codes<br>
 -Method overloading code<br>
 - Hierarchical inheritance code<br>
 -Multilevel inheritance code<br>
+-Addition and multiplication using Inheritance<br>
