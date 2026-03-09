@@ -1,3 +1,4 @@
+//Addition and multiplication of two numbers using single inheritance//
 import java.util.Scanner;
 class Add
 {
@@ -29,3 +30,4 @@ obj.Calculate(n1,n2);
 obj.Pro(a,b);
     sc.close();
 }}
+
