@@ -1,3 +1,4 @@
+//code is about Calculation of Total Marks using MultilevelInheritance//
 import java.util.Scanner;
 
 import javax.crypto.ExemptionMechanism;
@@ -57,3 +58,4 @@ public class Marksinheritance {
     }
     
 }
+
