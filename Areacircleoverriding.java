@@ -1,10 +1,11 @@
+//This java program contains area of circle using method overriding
 class Shape {
     double area(double r) {
         return 0;  
     }
 }
 
-class Circle extends Shape {
+class Circle extends Shape {//circle class
     double area(double r) {
         return 3.14 * r * r;
     }
