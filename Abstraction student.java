@@ -1,5 +1,6 @@
-
-abstract class Student {
+//this program contains student marks result using Abstraction
+ 
+abstract class Student {//abstract class
     String name;
     int rollNo;
 
