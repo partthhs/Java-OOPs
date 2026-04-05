@@ -1,3 +1,4 @@
+//This code is used to find area of Circle and rectangle using Interface 
 interface Shape {
     double area();
 }
