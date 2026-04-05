@@ -35,3 +35,4 @@ OOPs practice codes<br>
 -Student marks record using Abstraction<br>
 -Area of rectangle using Abstraction<br>
 -Shapes geometry using Abstraction<br>
+-Area of shapes using Interface<br>
