@@ -36,3 +36,4 @@ OOPs practice codes<br>
 -Area of rectangle using Abstraction<br>
 -Shapes geometry using Abstraction<br>
 -Area of shapes using Interface<br>
+-accept and display month using exception handling<br>
