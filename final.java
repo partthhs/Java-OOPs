@@ -1,3 +1,4 @@
+//this code contains simple interest program using final keyword
 import java.util.*;
 
 public class SimpleInterest {
