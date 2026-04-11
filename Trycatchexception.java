@@ -1,3 +1,4 @@
+//this code demonstrates Exception handling in java using try ; catch and finally 
 import java.util.Scanner;
 public class Trycatchexception{
     public static void main(String[]args)
