@@ -1,3 +1,4 @@
+//Bank account details code using concepts of oops
 
 import java.util.Scanner;
 public class Bankaccount {
