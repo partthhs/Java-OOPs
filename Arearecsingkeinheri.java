@@ -1,3 +1,5 @@
+//Area of a rectangle code using single inheritance 
+
 import java.util.Scanner;
 
 class Rectangle {
