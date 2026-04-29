@@ -1,3 +1,5 @@
+//Heirarchial inheritance example code
+
 class Animal
 {
     Animal()
