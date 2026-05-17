@@ -1,3 +1,4 @@
+//Area of circle using abstraction.
 abstract class Shape {
     abstract void area();
 }
